@@ -24,9 +24,4 @@ O projeto foi desenvolvido para ser executado diretamente no Google Colab, garan
 4.  **Entrada:** O notebook contém uma grade de Sudoku inicial (pode ser modificada na célula de entrada).
 5.  **Saída:** A solução será impressa, mostrando o tempo de processamento e a grade final resolvida.
 
-## 🧠 Exemplo de Resultado
-
-| Posição (Variável) | Restrições (Constraints) |
-| :--- | :--- |
-| Célula `(r, c)` | O valor deve ser único na Linha, Coluna e Bloco 3x3. |
 
